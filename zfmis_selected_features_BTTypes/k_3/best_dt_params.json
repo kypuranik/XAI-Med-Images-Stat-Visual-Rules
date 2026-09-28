@@ -1,0 +1,9 @@
+{
+  "train_file": "zfmis_selected_features_BTTypes/k_3/train_selected_features.csv",
+  "best_dt_params": {
+    "criterion": "entropy",
+    "max_depth": 5,
+    "min_samples_leaf": 4,
+    "min_samples_split": 2
+  }
+}

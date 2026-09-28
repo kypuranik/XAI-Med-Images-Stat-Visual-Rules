@@ -1,0 +1,7 @@
+{
+  "best_rf_params": {
+    "tree_size": 3,
+    "sample_fract": 0.7,
+    "max_rules": 2000
+  }
+}

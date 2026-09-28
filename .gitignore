@@ -1,0 +1,9 @@
+.venv/
+.venv-*/
+.venv-new/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+*.pyc
+_previous_outputs/
+glaucoma_detection_resnet50.h5

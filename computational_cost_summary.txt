@@ -1,0 +1,5 @@
+Model Training Time: 242.05 seconds
+Memory Used During Training: -0.36 MB
+Total Model Parameters: 2,422,210
+Trainable Parameters: 164,226
+MobileNetV2 FLOPs (measured): 613,054,540
